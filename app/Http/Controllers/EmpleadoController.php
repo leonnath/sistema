@@ -15,7 +15,7 @@ class EmpleadoController extends Controller
     public function index()
     {
         //
-        $datos['empleados']=Empleado::paginate(5);
+        $datos['empleados']=Empleado::paginate(1);
         return view('empleado.index', $datos);
     }
 
@@ -39,6 +39,18 @@ class EmpleadoController extends Controller
     public function store(Request $request)
     {
         //
+
+        $campos=[
+            'Nombre'=>'required|string|max:100',
+            'Apellidos'=>'required|string|max:100',
+            'Correo'=>'required|email',
+        ];
+        $mensaje=[
+            'required'=>'El :attribute es requerido',
+        ];
+
+        $this->validate($request, $campos, $mensaje);
+
         //$datosEmpleados = request()->all();
         $datosEmpleado = request()->except('_token');
 
@@ -81,12 +93,22 @@ class EmpleadoController extends Controller
      */
     public function update(Request $request, $id)
     {
+        $campos=[
+            'Nombre'=>'required|string|max:100',
+            'Apellidos'=>'required|string|max:100',
+            'Correo'=>'required|email',
+        ];
+        $mensaje=[
+            'required'=>'El :attribute es requerido',
+        ];
+
+        $this->validate($request, $campos, $mensaje);
         //
         $datosEmpleado = request()->except(['_token', '_method']);
         Empleado::where('id','=',$id)->update($datosEmpleado);
-
         $empleado=Empleado::findOrFail($id);
-        return view('empleado.edit', compact('empleado') );
+        
+        return redirect('empleado')->with('mensaje', 'Empleado Modificado');
 
     }
 
