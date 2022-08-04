@@ -1,6 +1,6 @@
 # SISTEMA 
 Este es un proyecto que se basa en un CRUD de usuario. 
-El usuario se puede dar de alta en el registro y luego ingresa por login, una vez que ingresa a su perfil tiene acceso a una lista de empleados que están añadidos a una Base de Datos creada en PHPMyAdmin. Sobre está lista se puede actualizar y eliminar a los distintos empleados. UNa vez que finaliza la tarea se puede hacer logout para cerrar la sesión. 
+El usuario se puede dar de alta en el registro y luego ingresa por login, una vez que esta en su perfil tiene acceso a una lista de empleados que están añadidos a una Base de Datos creada en PHPMyAdmin. Sobre está lista se puede actualizar y eliminar a los distintos empleados. UNa vez que finaliza la tarea se puede hacer Logout para cerrar la sesión. 
 
 # COMENZANDO 🚀...
 
