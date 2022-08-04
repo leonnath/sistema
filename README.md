@@ -37,7 +37,7 @@ Abrir el navegador y escribir:
 
 ## ILUSTRACIONES
 
-[Home](http://imgfz.com/i/jsZV53F.jpeg)
+[![Captura-de-pantalla-2022-08-04-171144.jpg](https://i.postimg.cc/cCF7DL3p/Captura-de-pantalla-2022-08-04-171144.jpg)](https://postimg.cc/0KJJjxcn)
 
 ## CONTENIDOS
 - RegisterUser
