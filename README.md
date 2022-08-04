@@ -38,19 +38,19 @@ Abrir el navegador y escribir:
 ## ILUSTRACIONES
 
 ---
-### Esto verás cuando entras al HOME
+### Esto verás cuando entras al ***HOME
 ---
 [![Esto verás cuando entras al Home](https://i.postimg.cc/cCF7DL3p/Captura-de-pantalla-2022-08-04-171144.jpg)](https://postimg.cc/0KJJjxcn)
 
 ---
-### Así verás la pantalla para crear empleado
+### Así verás la pantalla para ***crear empleado
 ---
 [![Así verás la pantalla para crear empleado:](https://i.postimg.cc/mgjcC5Qn/Captura-de-pantalla-2022-08-04-170751.jpg)](https://postimg.cc/k2VXdwYN)
 
 ---
-### Así podrás modificar los datos del empleado
+### Así podrás ***modificar los datos del empleado
 ---
-<a href='https://postimg.cc/ykx7FvKq' target='_blank'><img src='https://i.postimg.cc/ykx7FvKq/Captura-de-pantalla-2022-08-04-170909.jpg' border='0' alt='Captura-de-pantalla-2022-08-04-170909'/></a>
+[![Captura-de-pantalla-2022-08-04-170909.jpg](https://i.postimg.cc/jdQCYFkj/Captura-de-pantalla-2022-08-04-170909.jpg)](https://postimg.cc/ykx7FvKq)
 ---
 
 ## CONTENIDOS
