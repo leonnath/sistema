@@ -37,14 +37,10 @@ Abrir el navegador y escribir:
 
 ## ILUSTRACIONES
 
-
-[Esto verás cuando entras al Home](https://postimg.cc/0KJJjxcn)
-
-<a href='https://postimg.cc/0KJJjxcn' target='_blank'><img src='https://i.postimg.cc/0KJJjxcn/Captura-de-pantalla-2022-08-04-171144.jpg' border='0' alt='Captura-de-pantalla-2022-08-04-171144'/></a>
+[![Esto verás cuando entras al Home](https://i.postimg.cc/cCF7DL3p/Captura-de-pantalla-2022-08-04-171144.jpg)](https://postimg.cc/0KJJjxcn)
 
 [![Así verás la pantalla para crear empleado:](https://i.postimg.cc/mgjcC5Qn/Captura-de-pantalla-2022-08-04-170751.jpg)](https://postimg.cc/k2VXdwYN)
 
-<a href='https://postimg.cc/k2VXdwYN' target='_blank'><img src='https://i.postimg.cc/k2VXdwYN/Captura-de-pantalla-2022-08-04-170751.jpg' border='0' alt='Captura-de-pantalla-2022-08-04-170751'/></a>
 
 ### Así podrás modificar los datos del empleado:
 
