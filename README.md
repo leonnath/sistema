@@ -12,6 +12,10 @@ El usuario se puede dar de alta en el registro y luego ingresa por login, una ve
 - MYSQL
 
 ## INSTALACIONES
+- XAMPP 
+- PHP8
+- Composer-Setup.exe.
+- NodeJS
 
 
 ## CREACIÓN
