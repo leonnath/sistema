@@ -27,9 +27,9 @@ PROYECTO creado con:
 
 ## LANZAMIENTO
 
-npm install
+```npm install```
 
-npm run dev
+```npm run dev```
 
 Abrir el navegador y escribir:
 
