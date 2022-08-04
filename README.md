@@ -35,6 +35,10 @@ Abrir el navegador y escribir:
 
 [localhost/](http://localhost/sistema/public/)
 
+## ILUSTRACIONES
+
+[Home](http://imgfz.com/i/jsZV53F.jpeg)
+
 ## CONTENIDOS
 - RegisterUser
 - AuthenticateUser
