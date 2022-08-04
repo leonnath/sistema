@@ -10,7 +10,7 @@ El usuario se puede dar de alta en el registro y luego ingresa por login, una ve
 - PHP 8
 - Node.js
 - XAMPP
-- MYSQL
+- SQL
 
 ## INSTALACIONES
 - XAMPP 
