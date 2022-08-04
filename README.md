@@ -37,7 +37,7 @@ Abrir el navegador y escribir:
 
 ## ILUSTRACIONES
 
-[![Captura-de-pantalla-2022-08-04-171144.jpg](https://i.postimg.cc/cCF7DL3p/Captura-de-pantalla-2022-08-04-171144.jpg)](https://postimg.cc/0KJJjxcn)
+<a href='https://postimg.cc/0KJJjxcn' target='_blank'><img src='https://i.postimg.cc/0KJJjxcn/Captura-de-pantalla-2022-08-04-171144.jpg' border='0' alt='Captura-de-pantalla-2022-08-04-171144'/></a>
 
 ## CONTENIDOS
 - RegisterUser
