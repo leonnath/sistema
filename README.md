@@ -23,7 +23,7 @@ El usuario se puede dar de alta en el registro y luego ingresa por login, una ve
 
 PROYECTO creado con:
 
-composer create-project laravel/laravel sistema
+```composer create-project laravel/laravel sistema```
 
 ## LANZAMIENTO
 
