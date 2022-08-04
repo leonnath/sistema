@@ -2,16 +2,34 @@
 @section('content')
 <div class="container">
 
-
+<!-- 
     @if(Session::has('mensaje'))
-    <div class="alert alert-success alert-dismissible" role="alert">
-        {{ Session::get('mensaje') }}<button type="button" class="close" data-dismiss="alert" >
+    <div class="alert alert-success alert-dismissible fade show" data-dismiss="alert" role="alert">
+        {{ Session::get('mensaje') }}
+        <button type="button" class="close btn-close data-bs-dismiss" data-dismiss="alert" aria-label="Close" >
             <span aria-hidden="true">&times;</span>
         </button>
-
+        
     </div>
     @endif
+ -->
 
+    @if(Session::has('mensaje'))
+    <div class="alert alert-success alert-dismissible fade show"  role="alert">
+        {{ Session::get('mensaje') }}
+
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" >
+            <span aria-hidden="true">&times;</span>
+        </button>
+        
+    </div>
+    @endif
+ 
+
+
+
+
+    
     
 
 
